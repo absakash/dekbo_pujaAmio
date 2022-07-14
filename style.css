@@ -3,7 +3,7 @@
     background-image: url(images/ma.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 1100px;
+    height: 800px;
     position: relative;
 }
 
@@ -16,25 +16,25 @@
 .f_text{
     color: white;
     font-style: bold;
-    font-size: 90px;
+    font-size: 70px;
 
 }
 .f_small{
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     text-align: justify;
     width: 700px;
 }
 .btn{
-    padding: 18px;
+    padding: 12px;
     color: white;
     font-size: 25px;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 .s{
     margin-top: 200px;
     display: flex;
-    margin-left: 300px;
+    margin-left: 100px;
 }
 .second{
     
@@ -43,37 +43,37 @@
 }
 .second_text{
     margin-top: 40px;
-    font-size: 80px;
+    font-size: 60px;
 }
 .second_text_s{
-    font-size: 30px;
+    font-size: 25px;
     text-align: justify;
 }
 .second_image{
-    margin-left: 250px;
+    margin-left: 100px;
 }
 .s_image{
     border-radius: 30px;
-    width: 1100px;
+    width: 800px;
     height: 600px;
 }
 
 .th{
     margin-top: 200px;
     display: flex;
-    margin-left: 300px;
+    margin-left: 100px;
 }
 .third{
-    width: 60%;
+    width: 40%;
     
     
 }
 .t_image{
     background-image: url(images/ma1.webp);
-    height: 600px;
+    height: 550px;
     background-size: 100% 100%;
     border-radius: 30px;
-    width: 1000px;
+    width: 800px;
 
 }
 .third_text{
@@ -82,11 +82,11 @@
 }
 .t_big{
     margin-top: 50px;
-    font-size: 80px;
+    font-size: 70px;
 }
 .t_small{
-    font-size: 30px;
-    margin-right: 200px;
+    font-size: 25px;
+    margin-right: 100px;
     text-align: justify;
 }
 
@@ -96,10 +96,10 @@
 
 .f_big{
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
 }
 .f_sm{
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     margin-left: 250px;
     margin-right: 250px;
@@ -115,15 +115,17 @@
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
-    margin:0 300px;
+    margin:0 200px;
+    
+  
 
 
    
 }
 .ff{
    
-    width: 1000px;
-    height: 600px;
+    width: 650px;
+    height: 450px;
     background-color: lightgray;
     box-shadow: 10px 10px 10px black;
    
@@ -132,4 +134,29 @@
     margin: 20px 20px;
     border-radius: 30px;
 
+}
+
+.six{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.six_big{
+    font-size: 60px;
+    text-align: center;
+    margin: 0 300px;
+}
+.six_small{
+    font-size: 25px;
+    text-align: center;
+    margin: 0 300px;
+    
+}
+.card-deck{
+    margin-top: 100px;
+    margin: 0 50px;
+}
+
+.me{
+    width: 567px;
+    height: 400px;
 }
