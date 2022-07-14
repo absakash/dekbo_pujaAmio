@@ -1,0 +1,135 @@
+
+.image{
+    background-image: url(images/ma.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 1100px;
+    position: relative;
+}
+
+.first{
+    position:absolute;
+    top: 50%;
+    margin-left: 100px;
+}
+
+.f_text{
+    color: white;
+    font-style: bold;
+    font-size: 90px;
+
+}
+.f_small{
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    width: 700px;
+}
+.btn{
+    padding: 18px;
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+}
+.s{
+    margin-top: 200px;
+    display: flex;
+    margin-left: 300px;
+}
+.second{
+    
+    width: 40%;
+    
+}
+.second_text{
+    margin-top: 40px;
+    font-size: 80px;
+}
+.second_text_s{
+    font-size: 30px;
+    text-align: justify;
+}
+.second_image{
+    margin-left: 250px;
+}
+.s_image{
+    border-radius: 30px;
+    width: 1100px;
+    height: 600px;
+}
+
+.th{
+    margin-top: 200px;
+    display: flex;
+    margin-left: 300px;
+}
+.third{
+    width: 60%;
+    
+    
+}
+.t_image{
+    background-image: url(images/ma1.webp);
+    height: 600px;
+    background-size: 100% 100%;
+    border-radius: 30px;
+    width: 1000px;
+
+}
+.third_text{
+    margin-left: 300px;
+    
+}
+.t_big{
+    margin-top: 50px;
+    font-size: 80px;
+}
+.t_small{
+    font-size: 30px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+.f{
+    margin-top: 200px;
+}
+
+.f_big{
+    text-align: center;
+    font-size: 80px;
+}
+.f_sm{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.five{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+
+.five_total{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin:0 300px;
+
+
+   
+}
+.ff{
+   
+    width: 1000px;
+    height: 600px;
+    background-color: lightgray;
+    box-shadow: 10px 10px 10px black;
+   
+    text-align: center;
+    
+    margin: 20px 20px;
+    border-radius: 30px;
+
+}
