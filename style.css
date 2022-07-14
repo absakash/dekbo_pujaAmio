@@ -136,6 +136,9 @@
 
 }
 
+.six_body{
+    text-align: center;
+}
 .six{
     margin-top: 200px;
     margin-left: 50px;
@@ -159,4 +162,33 @@
 .me{
     width: 567px;
     height: 400px;
+}
+.but{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.others{
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+.four_text{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    height: 120px;
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+footer h2{
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: bold;
+}
+footer p{
+    font-size: 25px;
 }
