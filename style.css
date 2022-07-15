@@ -192,3 +192,19 @@ footer h2{
 footer p{
     font-size: 25px;
 }
+
+ul{
+    display: flex;
+    justify-content: end;
+}
+li{
+    
+    font-size: 30px;
+    list-style: none;
+    margin: 0 30px;
+    
+}
+#tumi{
+    display: flex;
+    flex-grow: 7;
+}
